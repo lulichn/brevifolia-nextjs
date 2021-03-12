@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: a
+pages:
+- blog/a.md
